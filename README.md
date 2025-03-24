@@ -1,5 +1,5 @@
 
-# Dvirpune 
+# DivPrune 
 The repo for DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models. [[Arxiv]](https://arxiv.org/abs/2503.02175) 
 
 DivPrune is accepted to CVPR 2025 🎉.   
