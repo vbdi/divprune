@@ -2,7 +2,9 @@
 # DivPrune 
 The repo for DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models. [[Arxiv]](https://arxiv.org/abs/2503.02175) 
 
-DivPrune is accepted to CVPR 2025 🎉.   
+DivPrune is accepted to CVPR 2025 🎉.
+
+Link to Huawei AI Gallery Notebook: [[AI Gallery]](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=11ca1e7d-9885-4f51-8bcf-232f83421072)
 
 
 <div align="center">
