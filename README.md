@@ -47,6 +47,12 @@ The following script calculated the  memory and latency for DivPrune using LLaVA
 bash ./eval_time.sh
 ```
 
+## Contributions from community: 
+
+* DivPrune with [Gemma 4](https://github.com/radosc/vtbench)
+
+* DivPrune with [Qwen2.5-VL](https://github.com/Ironieser/MMTok/blob/main/mmtok/qwen/README.md)
+
 ## References: 
 The code is implemented based on [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), [LLaVA](https://github.com/haotian-liu/LLaVA) and [FASTV](https://github.com/pkunlp-icler/FastV). 
 We thank the contributors for their great work!
